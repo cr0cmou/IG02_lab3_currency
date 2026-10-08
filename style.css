@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.titles {
+    color:coral ;
+}
+
+#currency_converter {
+    text-align: center;
+
+}
